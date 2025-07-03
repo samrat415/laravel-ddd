@@ -1,6 +1,6 @@
 {
     "name": "samrat415/laravel-ddd",
-    "description": "This is my package laravel-ddd",
+    "description": "Laravel DDD Toolkit - A lightweight Laravel package to scaffold and manage Domain Driven Design (DDD) modules for APIs and Livewire frontends. Features automatic PSR-4 namespace registration, artisan commands for module creation, and seamless integration with Laravel Sail.",
     "keywords": [
         "samrat415",
         "laravel",

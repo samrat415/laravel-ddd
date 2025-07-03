@@ -1,9 +1,7 @@
 
 # Laravel DDD Toolkit 🧱
 
-[![License](https://img.shields.io/github/license/samrat415/laravel-ddd?color=blue)](LICENSE)
-[![Packagist](https://img.shields.io/packagist/v/samrat415/laravel-ddd)](https://packagist.org/packages/samrat415/laravel-ddd)
-
+[![Total Downloads](https://img.shields.io/packagist/dt/samrat415/laravel-ddd?style=for-the-badge&color=brightgreen)](https://packagist.org/packages/samrat415/laravel-ddd)
 > A Laravel package to scaffold and register Domain Driven Design (DDD) modules for APIs and Livewire frontends.
 
 ---

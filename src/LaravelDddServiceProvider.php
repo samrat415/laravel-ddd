@@ -2,9 +2,6 @@
 
 namespace Samrat415\LaravelDdd;
 
-use App\Providers\DomainServiceProvider;
-use App\Providers\FrontendServiceProvider;
-use App\Providers\ModuleServiceProvider;
 use Samrat415\LaravelDdd\Commands\DddInstallCommand;
 use Samrat415\LaravelDdd\Commands\MakeDomainModuleCommand;
 use Spatie\LaravelPackageTools\Package;

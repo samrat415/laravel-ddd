@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Samrat415\LaravelDdd;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\File;
